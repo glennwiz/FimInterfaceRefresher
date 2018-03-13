@@ -1,3 +1,3 @@
 # FimInterfaceRefresher
 
-## AHK script too automate manual octopus deployment step.
+AHK script too automate manual octopus deployment step.
